@@ -3,8 +3,6 @@
 My name is Chuck, and I am a full-stack software engineer. I have been developing websites as a hobby for twenty plus
 years, and I am transitioning to a professional career.
 
-Want to know more about me? Check out my [portfolio](https://chucksmith.dev).
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
