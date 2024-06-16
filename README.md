@@ -1,23 +1,9 @@
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/EclecticCoding)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dev-chuck-smith/)
-[![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev&logoColor=white&color=222)](https://dev.to/eclecticcoding)
-
 ### Hey there 👋
 
 My name is Chuck, and I am a full-stack software engineer. I have been developing websites as a hobby for twenty plus
 years, and I am transitioning to a professional career.
 
 Want to know more about me? Check out my [portfolio](https://chucksmith.dev).
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Using each_slice in Rails](https://dev.to/eclecticcoding/using-eachslice-in-rails-51cj)
-- [Learning Rails](https://dev.to/eclecticcoding/learning-rails-1k0l)
-- [Set Up Rbenv Revisited](https://dev.to/eclecticcoding/set-up-rbenv-revisited-4ngo)
-- [Devise Profile Usernames](https://dev.to/eclecticcoding/devise-profile-usernames-30j4)
-- [Dev Environment SSL](https://dev.to/eclecticcoding/dev-environment-ssl-4fg8)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
 
